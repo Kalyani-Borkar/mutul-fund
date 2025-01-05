@@ -37,7 +37,7 @@ The app will be available at `http://localhost:8080`.
 - **Body** (JSON):
     ```json
     {
-        "username": "john_doe",
+        "emailId": "john_doe@gmail.com",
         "password": "password123"
     }
     ```
@@ -53,7 +53,7 @@ The app will be available at `http://localhost:8080`.
 - **Body** (JSON):
     ```json
     {
-        "username": "john_doe",
+         "emailId": "john_doe@gmail.com",
         "password": "password123"
     }
     ```
