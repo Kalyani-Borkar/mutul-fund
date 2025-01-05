@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mutual_fund_app.mutual.fund.app.MutualFundAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.249 s - in mutual_fund_app.mutual.fund.app.MutualFundAppApplicationTests
