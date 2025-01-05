@@ -58,7 +58,7 @@ The app will be available at `http://localhost:8080`.
     }
     ```
 - **Response**: 
-    - Success: `{"message": "Login successful", "token": "<JWT-TOKEN>"}`
+    - Success: `{"message": "Login successful"}`
     - Error: `{"error": "Invalid credentials"}`
   
 ---
